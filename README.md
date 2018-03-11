@@ -8,6 +8,16 @@ There are versions of the app for Windows, Mac, Linux and Android.
 
 The app is developed using the excellent Livecode Community edition and is completely free and open source.
 
+# Installation
+## Mac
+Unzip latest teelinemate-mac.zip and drag TeelineMate.app to the Applications folder
+
+## Windows
+Unzip latest teelinemate-windows.zip and copy TeelineMate.exe to c:/Program Files folder
+
+## Linux
+Unzip latest teelinemate-linux.zip and copy TeelineMate binary to /usr/local folder
+
 # Basic Usage
 To see the Teeline Alphabet choose the 'Basics' tab at the bottom of the screen and click on 'Show Teeline Alphabet' button. All the Teeline letters will be displayed with their label underneath.
 
