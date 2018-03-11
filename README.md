@@ -6,6 +6,8 @@ The app takes any words you enter and displays the Teeline shorthand. You can di
 
 There are versions of the app for Windows, Mac, Linux and Android. 
 
+A tutorial video is on youtube at https://youtu.be/fEdea9KYeZI , alternatively search Youtube for "Teeline Mate Video"
+
 The app is developed using the excellent Livecode Community edition and is completely free and open source.
 
 # Installation
