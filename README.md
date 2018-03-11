@@ -1,4 +1,4 @@
-#About This App
+# About This App
 
 When I decided to learn Teeline shorthand, a method used by journalists, I couldn't find an app that could help me. As I enjoy building apps I have developed this free app to help me learn Teeline faster.
 
@@ -8,7 +8,7 @@ There are versions of the app for Windows, Mac, Linux and Android.
 
 The app is developed using the excellent Livecode Community edition and is completely free and open source.
 
-#Basic Usage
+# Basic Usage
 To see the Teeline Alphabet choose the 'Basics' tab at the bottom of the screen and click on 'Show Teeline Alphabet' button. All the Teeline letters will be displayed with their label underneath.
 
 To see a typical sentence choose the "Sample Sentences" dropdown list and select a sentence.
